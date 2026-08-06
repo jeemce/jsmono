@@ -1,0 +1,1828 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Rab",
+				"RabController"
+			],
+			[
+				"pos",
+				"post($params, $type)"
+			],
+			[
+				"updateall",
+				"updateAll($propertyValues, $condition, $from, $params)"
+			],
+			[
+				"penda",
+				"id_pendaftaran"
+			],
+			[
+				"cre",
+				"create(ServerRequestInterface $request): ResponseInterface"
+			],
+			[
+				"dele",
+				"delete($params, $type)"
+			],
+			[
+				"find",
+				"findAll($condition, $params)"
+			],
+			[
+				"Activere",
+				"ActiveRecordInterface"
+			],
+			[
+				"da",
+				"data()"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"use",
+				"$user_id"
+			],
+			[
+				"con",
+				"$config"
+			],
+			[
+				"Arrayacc",
+				"Yiisoft\\ActiveRecord\\Trait\\ArrayAccessTrait"
+			],
+			[
+				"arrayable",
+				"Yiisoft\\ActiveRecord\\Trait\\ArrayableTrait"
+			],
+			[
+				"ArrayableTrait",
+				"Yiisoft\\ActiveRecord\\Trait\\ArrayableTrait"
+			],
+			[
+				"Array",
+				"ArrayableTrait"
+			],
+			[
+				"ServerReq",
+				"ServerRequest"
+			],
+			[
+				"ac",
+				"actifyService"
+			],
+			[
+				"Json",
+				"Json"
+			],
+			[
+				"for",
+				"$force"
+			],
+			[
+				"updatea",
+				"updated_at"
+			],
+			[
+				"en",
+				"encode($value, $options, $depth)"
+			],
+			[
+				"index",
+				"isIndexed($array, $consecutive)"
+			],
+			[
+				"Jso",
+				"Json"
+			],
+			[
+				"floatva",
+				"floatval($value)"
+			],
+			[
+				"his",
+				"$historyMap"
+			],
+			[
+				"pn",
+				"$pendaftaran"
+			],
+			[
+				"prope",
+				"@property-read"
+			],
+			[
+				"getpa",
+				"getQueryParams()"
+			],
+			[
+				"Serverreq",
+				"HttpSoft\\Message\\ServerRequest"
+			],
+			[
+				"getsea",
+				"getErrorMessagesIndexedByProperty()"
+			],
+			[
+				"filegetc",
+				"file_get_contents()"
+			],
+			[
+				"link",
+				"link($url, $attributes)"
+			],
+			[
+				"sc",
+				"script($content, $attributes)"
+			],
+			[
+				"base",
+				"baseUrl"
+			],
+			[
+				"url",
+				"urlGenerator"
+			],
+			[
+				"Aliases",
+				"Aliases"
+			],
+			[
+				"Reke",
+				"rekening"
+			],
+			[
+				"upda",
+				"updated_at"
+			],
+			[
+				"route",
+				"routeValid"
+			],
+			[
+				"F",
+				"FGD"
+			],
+			[
+				"wrap",
+				"\"word_wrap\""
+			],
+			[
+				"Carbo",
+				"Carbon"
+			],
+			[
+				"Carb",
+				"Carbon"
+			],
+			[
+				"nore",
+				"noref"
+			],
+			[
+				"attr",
+				"attributesToArray()"
+			],
+			[
+				"pendafa",
+				"pendaftaran"
+			],
+			[
+				"pendaf",
+				"pendaftaran_id"
+			],
+			[
+				"Pasang",
+				"Pemasangan"
+			],
+			[
+				"wila",
+				"wilayah"
+			],
+			[
+				"wilaya",
+				"wilayah_id"
+			],
+			[
+				"tangal",
+				"tanggal_kesesuaian_rab"
+			],
+			[
+				"total",
+				"total_hari"
+			],
+			[
+				"calc",
+				"calculateJatuhTempo($totalHari)"
+			],
+			[
+				"provin",
+				"provinsiModel($iden)"
+			],
+			[
+				"semo",
+				"sempoa"
+			],
+			[
+				"tangg",
+				"tanggal_kesesuaian_rab"
+			],
+			[
+				"pengisi",
+				"tanggal_pengisian_rab"
+			],
+			[
+				"kses",
+				"kesesuaian_rab"
+			],
+			[
+				"statuske",
+				"status_kesesuaian_rab"
+			],
+			[
+				"kesesuan",
+				"status_kesesuaian_rab"
+			],
+			[
+				"status",
+				"status_kesesuaian_rab"
+			],
+			[
+				"persetuj",
+				"persetujuan_verifikator"
+			],
+			[
+				"remo",
+				"removeVal($array, $finds, $config)"
+			],
+			[
+				"isDe",
+				"isDev()"
+			],
+			[
+				"Help",
+				"Helper"
+			],
+			[
+				"QuerySearch",
+				"QuerySearch"
+			],
+			[
+				"sma",
+				"smaller"
+			],
+			[
+				"small",
+				"xx-small"
+			],
+			[
+				"biayada",
+				"biayaDasar"
+			],
+			[
+				"biayadasa",
+				"biayaDasar"
+			],
+			[
+				"reset",
+				"resetBiayaDasar($model, $biayaDasar)"
+			],
+			[
+				"biaya",
+				"$biayaDasar"
+			],
+			[
+				"biayas",
+				"biaya_standar"
+			],
+			[
+				"fi",
+				"file($file, $headers)"
+			],
+			[
+				"pre",
+				"prefixAsset($href)"
+			],
+			[
+				"strrepla",
+				"str_replace()"
+			],
+			[
+				"PHP_URL_PA",
+				"PHP_URL_PATH"
+			],
+			[
+				"parseur",
+				"parse_url()"
+			],
+			[
+				"is",
+				"isConsumer()"
+			],
+			[
+				"Carbon",
+				"Carbon"
+			],
+			[
+				"Fak",
+				"Faktur"
+			],
+			[
+				"metho",
+				"payment_method"
+			],
+			[
+				"qer",
+				"query()"
+			],
+			[
+				"daftar",
+				"pendaftaran"
+			],
+			[
+				"intv",
+				"intval()"
+			],
+			[
+				"Infletor",
+				"Inflector"
+			],
+			[
+				"i",
+				"img($src, $alt)"
+			],
+			[
+				"hasf",
+				"hasFile()"
+			],
+			[
+				"pembayar",
+				"pembayaranFaktur($model, $config)"
+			],
+			[
+				"pembaya",
+				"tanggal_pembayaran_rab"
+			],
+			[
+				"per",
+				"persetujuan_verifikator"
+			],
+			[
+				"perse",
+				"persetujuan_verifikator"
+			],
+			[
+				"pers",
+				"persetujuan_verifikator"
+			],
+			[
+				"sin",
+				"sinkron($model, $config)"
+			],
+			[
+				"pere",
+				"perencanaFile"
+			],
+			[
+				"kasu",
+				"kasubag"
+			],
+			[
+				"kaba",
+				"kabagFileModel"
+			],
+			[
+				"pema",
+				"pembayaran_rab"
+			],
+			[
+				"created",
+				"created_by"
+			],
+			[
+				"head",
+				"headJqueryJs"
+			],
+			[
+				"caba",
+				"cabang_id"
+			],
+			[
+				"val",
+				"validate()"
+			],
+			[
+				"jso",
+				"jsonScript($data, $attrs)"
+			],
+			[
+				"uang",
+				"uang($uang, $config)"
+			],
+			[
+				"pelang",
+				"pelanggan"
+			],
+			[
+				"pelangg",
+				"pelanggan"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"ricni",
+				"rincians"
+			],
+			[
+				"biadasa",
+				"biayaDasar"
+			],
+			[
+				"penomo",
+				"penomoranKode($model)"
+			],
+			[
+				"thro",
+				"throw\tThrow Exception"
+			],
+			[
+				"ArrayHe",
+				"ArrayHelper"
+			],
+			[
+				"cop",
+				"copyFile($old, $new)"
+			],
+			[
+				"Image",
+				"Image"
+			],
+			[
+				"Log",
+				"Log"
+			],
+			[
+				"size",
+				"getSize()"
+			],
+			[
+				"rincin",
+				"rincianTotal"
+			],
+			[
+				"rinci",
+				"rincianTotal"
+			],
+			[
+				"pembayara",
+				"status_pembayaran"
+			],
+			[
+				"rab",
+				"rab_id"
+			],
+			[
+				"peno",
+				"penomoranSpko($model)"
+			],
+			[
+				"penmo",
+				"penomoranKode($model)"
+			],
+			[
+				"o",
+				"options($key, $val, $query)"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"refire",
+				"redirect($config, $request)"
+			],
+			[
+				"peng",
+				"penunggakan($model, $fakturModels)"
+			],
+			[
+				"faktur",
+				"fakturModels"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".agents/BRAINS.md",
+			"settings":
+			{
+				"buffer_size": 3945,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAADwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAQzpcd29ya3NcanNtb25v",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAaQ8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "AGENTS.md",
+			"settings":
+			{
+				"buffer_size": 522,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAACQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAkCAAAAAAAACgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQIAAAAAAAAJAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fodlal",
+				"Code Folding: Fold All"
+			],
+			[
+				"foldal",
+				"Code Folding: Fold All"
+			],
+			[
+				"lsprestart",
+				"LSP: Restart Server"
+			],
+			[
+				"lspreser",
+				"LSP: Restart Server"
+			],
+			[
+				"folda",
+				"Code Folding: Fold All"
+			],
+			[
+				"sstxt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"indetota",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indtta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lspres",
+				"LSP: Restart Server"
+			],
+			[
+				"lsprese",
+				"LSP: Restart Server"
+			],
+			[
+				"indent tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"jso",
+				"LSP-json: Sort Document"
+			],
+			[
+				"json",
+				"LSP-json: Sort Document"
+			],
+			[
+				"convtab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ofldal",
+				"Code Folding: Fold All"
+			],
+			[
+				"lsprestar",
+				"LSP: Restart Server"
+			],
+			[
+				"lspre",
+				"LSP: Goto Symbol in Project"
+			],
+			[
+				"ofdla",
+				"Code Folding: Fold All"
+			],
+			[
+				"lspenab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"fiodlal",
+				"Code Folding: Fold All"
+			],
+			[
+				"fodal",
+				"Code Folding: Fold All"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"foldla",
+				"Code Folding: Fold All"
+			],
+			[
+				"ofdal",
+				"Code Folding: Fold All"
+			],
+			[
+				"fodall",
+				"Code Folding: Fold All"
+			],
+			[
+				"ssql",
+				"Set Syntax: Cassandra Query Language"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"con tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"fioldal",
+				"Code Folding: Fold All"
+			],
+			[
+				"foldall",
+				"Code Folding: Fold All"
+			],
+			[
+				"foildal",
+				"Code Folding: Fold All"
+			],
+			[
+				"forma",
+				"LSP: Format File"
+			],
+			[
+				"fildal",
+				"Code Folding: Fold All"
+			],
+			[
+				"foldlal",
+				"Code Folding: Fold All"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"lsp",
+				"LSP: Restart Server"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lspdire",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"foldala",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"fodla",
+				"Code Folding: Fold All"
+			],
+			[
+				"packagc",
+				"Package Control: Install Package"
+			],
+			[
+				"lsprest",
+				"LSP: Restart Server"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"md",
+				"Emmet: Decrement Number by 1"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssbat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Bash"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/works/jsmono",
+		"/C/works/jsmono/.agents"
+	],
+	"file_history":
+	[
+		"/C/works/rental/rental_mob/.agents/BRAINS.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/.env",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Aduan/Repository/AduanRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Aduan/Controller/AduanController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/AGENTS.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Controller/RabController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Controller/PendaftaranController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Shared/Repository.php",
+		"/C/projects/intanbanjar/intanbanjar_docs/mobile/20260804-upload.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/.env.default",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/routes-samba.php",
+		"/C/projects/intanbanjar/intanbanjar_docs/mobile/20260804-diskusi.md",
+		"/C/Users/anovs/.npmrc",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/tests/curl/samba_rab.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/tests/curl/_output/bukti-pembayaran-rab-862.html",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/tests/.gitignore",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/db/snippets/samba-user-rab.sql",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/Controller/BuktiPembayaranController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/Controller/RabController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Models/Samba/Rab.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/routes-portal.php",
+		"/C/Users/anovs/Downloads/PRD-v1.md",
+		"/C/Users/anovs/AppData/Local/Temp/d0172179-12ea-4878-862f-3d6bde988b1d_Nirmala-v0.0.1.zip.Nirmala-v0.0.1.zip/Nirmala-v0.0.1/lib/main.dart",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/.agents/brains/context-workflows.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/SambaOpenApiPaths.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/composer.json",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/assets/samba_daftar.json",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/samba/daftar_snk.html",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/tests/curl/samba_daftar.php",
+		"/C/projects/intanbanjar/intanbanjar_docs/mobile/20260723-portal-api.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/tests/curl/notify.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/Controller/NotifyController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/db/skema-portal.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/db/patches/20260730.sql",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Service/Portal/NotifyService.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Service/Portal/ActifyService.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/db/skema-portal.sql",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/Controller/ActifyController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/Repository/NotifyRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/tests/curl/actify.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/tests/curl.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/Repository/ActifyRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Billing/Repository/UserRepository.php",
+		"/C/projects/telukbintunikab/telukbintunikab_satupeta/.env.default",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Billing/Controller/ActivityController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/vendor/anovsiradj/skit/src/CURL.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Auth/ForgotPasswordAction.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Models/Actify.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Models/User.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Shared/DbHelper.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Models/Model.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/PortalCrudController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/vendor/yiisoft/active-record/src/AbstractActiveRecord.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/vendor/yiisoft/active-record/src/Trait/ArrayableTrait.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Shared/ResponseFactory.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Shared/Presenter/SuccessPresenter.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Auth/ApiKeyMiddleware.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Controller/UsersController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/intanbanjar_portal_web.sublime-project",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/tests/curl/auth.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Console/LegacyPdamUserImport.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Auth/LoginAction.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Repository/UsersRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/Repository/LoginRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/.agents/BRAINS.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/LoginRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/.kilo/kilo.jsonc",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/web/di/error-handler.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/web/di/application.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/routes.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Billing/Repository/ActivityRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Shared/CrudController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Billing/BillingRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/web/di/psr17.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/web/params.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/Services/NotifyService.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Rekening/Controller/LacakController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/.gitignore",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Models/Notify.php",
+		"/C/projects/intanbanjar/intanbanjar_docs/notes/20251124.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Portal/Services/ActifyService.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Shared/QuerySearch.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Models/Connections.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/console/commands.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/README.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Shared/DBHelper.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/db/legacy_pdam/user-to-json.sql",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/db/legacy_pdam/user20260723.json",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/vendor/yiisoft/active-record/src/Trait/RepositoryTrait.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Console/HelloCommand.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Console/LegacyPdamUserImportCommand.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Models/Bayar.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/routes-aduan.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/db/legacy_pdam/dump_backup_notification_17_06_2026_pdam_website_202607221609.sql",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/psalm.xml",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/aliases.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/routes-auth.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/routes-billing.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/di/router.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/di/logger.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/di/hydrator.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/di/error-handler.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/di/database.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/di/application.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/application.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/routes-rekening.php",
+		"/C/projects/intanbanjar/intanbanjar_docs/mobile/20260722-irl.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Controller/LacakController.php",
+		"/C/projects/intanbanjar/intanbanjar_docs/billing/nopel.txt",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Billing/BillingTagihClient.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/Sempoa.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Billing/Controller/TagihController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Controller/TagihController.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/SempoaPasang.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/SempoaCicil.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/SempoaRab.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/helpers/JenisHelper.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/SempoaDaftar.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/TagihService.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/Jenis.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Repository/TagihRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Models/Samba/Pendaftaran.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Shared/ResponseTrait.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Shared/CommonTrait.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/SambaRepository.php",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/vendor/psr/http-message/src/ServerRequestInterface.php",
+		"/C/projects/intanbanjar/intanbanjar_docs/pelanggan.md",
+		"/C/projects/intanbanjar/intanbanjar_portal_web/vendor/psr/http-message/src/ResponseInterface.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 194.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".agents/BRAINS.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3945,
+								3945
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"lsp_uri": "file:///C:/works/jsmono/.agents/BRAINS.md",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 1219.0,
+						"translation.y": 311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "AGENTS.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"lsp_uri": "file:///C:/works/jsmono/AGENTS.md",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "jsmono.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pendacontro",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\PendaftaranController.php"
+			],
+			[
+				"aduancontro",
+				"intanbanjar_portal_web\\src\\Api\\Aduan\\Controller\\AduanController.php"
+			],
+			[
+				"pendaftaracontro",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\PendaftaranController.php"
+			],
+			[
+				".env",
+				"intanbanjar_portal_web\\.env"
+			],
+			[
+				"routesam",
+				"intanbanjar_portal_web\\config\\common\\routes-samba.php"
+			],
+			[
+				"rabcontro",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\RabController.php"
+			],
+			[
+				"aduanaduncontr",
+				"intanbanjar_portal_web\\src\\Api\\Aduan\\Controller\\AduanController.php"
+			],
+			[
+				"pendaftarancon",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\PendaftaranController.php"
+			],
+			[
+				"curlsamba",
+				"intanbanjar_portal_web\\tests\\curl\\samba_rab.php"
+			],
+			[
+				"rabcontroller",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\RabController.php"
+			],
+			[
+				"modelrab",
+				"intanbanjar_portal_web\\src\\Models\\Samba\\Rab.php"
+			],
+			[
+				"agent",
+				"intanbanjar_portal_web\\AGENTS.md"
+			],
+			[
+				"composer",
+				"intanbanjar_portal_web\\composer.json"
+			],
+			[
+				"compose",
+				"intanbanjar_portal_web\\composer.json"
+			],
+			[
+				"sambadafacon",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\PendaftaranController.php"
+			],
+			[
+				"rousamba",
+				"intanbanjar_portal_web\\config\\common\\routes-samba.php"
+			],
+			[
+				"skemapo",
+				"intanbanjar_portal_web\\db\\skema-portal.sql"
+			],
+			[
+				"portal",
+				"intanbanjar_portal_web\\db\\skema-portal.md"
+			],
+			[
+				"actifyser",
+				"intanbanjar_portal_web\\src\\Service\\Portal\\ActifyService.php"
+			],
+			[
+				"notifyse",
+				"intanbanjar_portal_web\\src\\Service\\Portal\\NotifyService.php"
+			],
+			[
+				"actifycon",
+				"intanbanjar_portal_web\\src\\Api\\Portal\\Controller\\ActifyController.php"
+			],
+			[
+				"notifycon",
+				"intanbanjar_portal_web\\src\\Api\\Portal\\Controller\\NotifyController.php"
+			],
+			[
+				"rouportal",
+				"intanbanjar_portal_web\\config\\common\\routes-portal.php"
+			],
+			[
+				"actifysr",
+				"intanbanjar_portal_web\\src\\Service\\Portal\\ActifyService.php"
+			],
+			[
+				"userrepo",
+				"intanbanjar_portal_web\\src\\Api\\Billing\\Repository\\UserRepository.php"
+			],
+			[
+				"actifycontrol",
+				"intanbanjar_portal_web\\src\\Api\\Portal\\Controller\\ActifyController.php"
+			],
+			[
+				"activtycon",
+				"intanbanjar_portal_web\\src\\Api\\Billing\\Controller\\ActivityController.php"
+			],
+			[
+				"reposit",
+				"intanbanjar_portal_web\\src\\Api\\Shared\\Repository.php"
+			],
+			[
+				"routportal",
+				"intanbanjar_portal_web\\config\\common\\routes-portal.php"
+			],
+			[
+				"actifyrepo",
+				"intanbanjar_portal_web\\src\\Api\\Portal\\Repository\\ActifyRepository.php"
+			],
+			[
+				"dbhe",
+				"intanbanjar_portal_web\\src\\Shared\\DbHelper.php"
+			],
+			[
+				"modeluser",
+				"intanbanjar_portal_web\\src\\Models\\User.php"
+			],
+			[
+				"modelac",
+				"intanbanjar_portal_web\\src\\Models\\Actify.php"
+			],
+			[
+				"PortalCrudController",
+				"intanbanjar_portal_web\\src\\Api\\Portal\\PortalCrudController.php"
+			],
+			[
+				"curl",
+				"intanbanjar_portal_web\\tests\\curl.php"
+			],
+			[
+				"skema",
+				"intanbanjar_portal_web\\db\\skema-portal.md"
+			],
+			[
+				"middlewa",
+				"intanbanjar_portal_web\\src\\Api\\Auth\\ApiKeyMiddleware.php"
+			],
+			[
+				"route",
+				"intanbanjar_portal_web\\config\\common\\routes-portal.php"
+			],
+			[
+				"legacy",
+				"intanbanjar_portal_web\\src\\Console\\LegacyPdamUserImport.php"
+			],
+			[
+				"src/Api/Samba/Controller/PendaftaranController.php",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\PendaftaranController.php"
+			],
+			[
+				"skemamd",
+				"intanbanjar_portal_web\\db\\skema-portal.md"
+			],
+			[
+				"skema-portal.md",
+				"intanbanjar_portal_web\\db\\skema-portal.md"
+			],
+			[
+				"logincon",
+				"intanbanjar_portal_web\\src\\Api\\Auth\\LoginAction.php"
+			],
+			[
+				"notifyses",
+				"Create ActifyService and NotifyService classes wit"
+			],
+			[
+				"ActifyService",
+				"intanbanjar_portal_web\\src\\Service\\Portal\\ActifyService.php"
+			],
+			[
+				"kilo",
+				"intanbanjar_portal_web\\.kilo\\kilo.jsonc"
+			],
+			[
+				"activyrep",
+				"intanbanjar_portal_web\\src\\Api\\Billing\\Repository\\ActivityRepository.php"
+			],
+			[
+				"src\\Api\\Portal\\Controller\\ActifyController.php",
+				"intanbanjar_portal_web\\src\\Api\\Portal\\Controller\\ActifyController.php"
+			],
+			[
+				"QuerySearch",
+				"intanbanjar_portal_web\\src\\Shared\\QuerySearch.php"
+			],
+			[
+				"skemapomd",
+				"intanbanjar_portal_web\\db\\skema-portal.md"
+			],
+			[
+				"notifycontrol",
+				"intanbanjar_portal_web\\src\\Api\\Portal\\Controller\\NotifyController.php"
+			],
+			[
+				"notify",
+				"intanbanjar_portal_web\\src\\Models\\Notify.php"
+			],
+			[
+				"read",
+				"intanbanjar_portal_web\\README.md"
+			],
+			[
+				"commandphp",
+				"intanbanjar_portal_web\\config\\console\\commands.php"
+			],
+			[
+				"commaphp",
+				"intanbanjar_portal_web\\config\\console\\commands.php"
+			],
+			[
+				"pdamuseim",
+				"intanbanjar_portal_web\\src\\Console\\LegacyPdamUserImportCommand.php"
+			],
+			[
+				"modeluse",
+				"intanbanjar_portal_web\\src\\Models\\User.php"
+			],
+			[
+				"psal",
+				"intanbanjar_portal_web\\psalm.xml"
+			],
+			[
+				"rout",
+				"intanbanjar_portal_web\\config\\common\\routes.php"
+			],
+			[
+				"pendaftarancontro",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\PendaftaranController.php"
+			],
+			[
+				"aduancontroller",
+				"intanbanjar_portal_web\\src\\Api\\Aduan\\Controller\\AduanController.php"
+			],
+			[
+				"rekeninglacak",
+				"intanbanjar_portal_web\\src\\Api\\Rekening\\Controller\\LacakController.php"
+			],
+			[
+				"sambalacakcon",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\LacakController.php"
+			],
+			[
+				"billingtagihcontro",
+				"intanbanjar_portal_web\\src\\Api\\Billing\\Controller\\TagihController.php"
+			],
+			[
+				"readme",
+				"intanbanjar_portal_web\\README.md"
+			],
+			[
+				"sambatagihcontr",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\TagihController.php"
+			],
+			[
+				"sambatagih",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\TagihService.php"
+			],
+			[
+				"modelpenda",
+				"intanbanjar_portal_web\\src\\Models\\Samba\\Pendaftaran.php"
+			],
+			[
+				"samba",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\SambaRepository.php"
+			],
+			[
+				"querysea",
+				"intanbanjar_portal_web\\src\\Shared\\QuerySearch.php"
+			],
+			[
+				"modelsambapenda",
+				"intanbanjar_portal_web\\src\\Models\\Samba\\Pendaftaran.php"
+			],
+			[
+				"pelanggan",
+				"intanbanjar_docs\\pelanggan.md"
+			],
+			[
+				"responseFactory",
+				"intanbanjar_portal_web\\src\\Api\\Shared\\ResponseFactory.php"
+			],
+			[
+				"sambalacacontr",
+				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\LacakController.php"
+			],
+			[
+				"notfo",
+				"intanbanjar_portal_web\\src\\Api\\Shared\\NotFoundException.php"
+			],
+			[
+				"response",
+				"intanbanjar_portal_web\\src\\Api\\Shared\\ResponseFactory.php"
+			],
+			[
+				"Models\\Rekening\\Pelanggan",
+				"intanbanjar_portal_web\\src\\Models\\Rekening\\Pelanggan.php"
+			],
+			[
+				"comploc",
+				"intanbanjar_portal_web\\composer.lock"
+			],
+			[
+				"db/skema-portal.md",
+				"intanbanjar_portal_web\\db\\skema-portal.md"
+			],
+			[
+				"command",
+				"intanbanjar_portal_web\\src\\Console\\HelloCommand.php"
+			],
+			[
+				"skemaporsql",
+				"intanbanjar_portal_web\\db\\skema-portal.sql"
+			],
+			[
+				"config/common/db.php",
+				"intanbanjar_portal_web\\config\\common\\di\\database.php"
+			],
+			[
+				"config/console/params.php",
+				"intanbanjar_portal_web\\config\\console\\params.php"
+			],
+			[
+				"opena",
+				"intanbanjar_portal_web\\src\\Api\\OpenApiAction.php"
+			],
+			[
+				"swagger",
+				"intanbanjar_portal_web\\src\\Api\\SwaggerUiAction.php"
+			],
+			[
+				"cliopen",
+				"intanbanjar_portal_web\\cli-openapi.php"
+			],
+			[
+				"swage",
+				"intanbanjar_portal_web\\src\\Api\\SwaggerUiAction.php"
+			],
+			[
+				"openap",
+				"intanbanjar_portal_web\\src\\Api\\OpenApiAction.php"
+			],
+			[
+				"src\\Api\\OpenApiAction.php ",
+				"intanbanjar_portal_web\\src\\Api\\OpenApiAction.php"
+			],
+			[
+				"gent",
+				"intanbanjar_portal_web\\AGENTS.md"
+			],
+			[
+				".envde",
+				"intanbanjar_portal_web\\.env.default"
+			],
+			[
+				"alias",
+				"intanbanjar_portal_web\\config\\common\\aliases.php"
+			],
+			[
+				"confiparam",
+				"intanbanjar_portal_web\\config\\common\\params.php"
+			],
+			[
+				"aliases.php",
+				"intanbanjar_portal_web\\config\\common\\aliases.php"
+			],
+			[
+				"application.php",
+				"intanbanjar_portal_web\\config\\common\\application.php"
+			],
+			[
+				"config/common",
+				"intanbanjar_portal_web\\config\\common\\application.php"
+			],
+			[
+				"config/params.php",
+				"intanbanjar_portal_web\\config\\web\\params.php"
+			],
+			[
+				"routes-auth.php",
+				"intanbanjar_portal_web\\config\\common\\routes-auth.php"
+			],
+			[
+				"aduan",
+				"intanbanjar_portal_web\\db\\skema-aduan.sql"
+			],
+			[
+				"billinsql",
+				"intanbanjar_portal_web\\db\\skema-billing.sql"
+			],
+			[
+				"ascii",
+				"ascii.md"
+			],
+			[
+				"readmindex",
+				"readme5\\index.html"
+			],
+			[
+				"a",
+				"ascii.md"
+			],
+			[
+				"boker",
+				"ai\\boker.md"
+			],
+			[
+				"flutte",
+				"devlog\\flutter\\dir.md"
+			],
+			[
+				"ide",
+				"ai\\ide.md"
+			],
+			[
+				"rulesdee",
+				"ai\\rules-deepseek.md"
+			],
+			[
+				"models",
+				"ai\\models.md"
+			],
+			[
+				"snippe",
+				"ai\\snippet.md"
+			],
+			[
+				"pustaka",
+				"devlog\\narakode\\pustaka.md"
+			],
+			[
+				"json-e",
+				"tools\\json-perfect-editor.html"
+			],
+			[
+				"model",
+				"ai\\models.md"
+			],
+			[
+				"rekrut",
+				"ai\\rekrutmen.html"
+			],
+			[
+				"rek",
+				"ai\\rekrutmen.md"
+			],
+			[
+				"forma",
+				"tools\\formalize.html"
+			],
+			[
+				"ffform",
+				"ffform\\index.html"
+			],
+			[
+				"readmeindex",
+				"readme5\\index.html"
+			],
+			[
+				"readme5",
+				"readme5\\readme5.js"
+			],
+			[
+				"resume",
+				"resume.html"
+			],
+			[
+				"header",
+				"resume\\my-header.vue"
+			],
+			[
+				"snipp",
+				"ai\\snippet.md"
+			],
+			[
+				"json",
+				"devlog\\lib\\json-api-sql.md"
+			],
+			[
+				"resume/index.js",
+				"resume\\index.js"
+			],
+			[
+				"kimi",
+				"experiment\\sql-dql-gui\\kimi\\v1.html"
+			],
+			[
+				"sql",
+				"docs\\sql_like_matrix.html"
+			],
+			[
+				"nav",
+				"html\\navix.html"
+			],
+			[
+				"inve",
+				"outfits\\outfit_inveintshirts.com.md"
+			],
+			[
+				"photoe",
+				"vendor_photoeditorai_prompt.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 499.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"anov",
+				"C:\\projects\\anoop\\anovsiradj.github.io\\anovsiradj.github.io.sublime-project"
+			],
+			[
+				"portalmob",
+				"C:\\projects\\intanbanjar\\intanbanjar_portal_mob\\intanbanjar_portal_mob.sublime-project"
+			],
+			[
+				"jee",
+				"C:\\projects\\jeeoop\\jeeoop.sublime-project"
+			],
+			[
+				"warehouse",
+				"C:\\projects\\jolie_warehouse\\jolie_warehouse.sublime-project"
+			],
+			[
+				"sigap",
+				"C:\\projects\\SIGAP_KLHK\\sigap.sublime-project"
+			],
+			[
+				"jeeo",
+				"C:\\projects\\jeeoop\\jeeoop.sublime-project"
+			],
+			[
+				"jeeoo",
+				"C:\\projects\\jeeoop\\jeeoop.sublime-project"
+			],
+			[
+				"jeem",
+				"C:\\projects\\jmc\\jeemce.sublime-project"
+			],
+			[
+				"kediri",
+				"C:\\projects\\kedirikota\\kedirikota_satupeta.sublime-project"
+			],
+			[
+				"wasp",
+				"C:\\waap\\wasp.sublime-project"
+			],
+			[
+				"pengaduan",
+				"C:\\projects\\intanbanjar\\intanbanjar_pengaduan.sublime-project"
+			],
+			[
+				"pasaang",
+				"C:\\projects\\intanbanjar\\intanbanjar_pasangbaru.sublime-project"
+			],
+			[
+				"jmc",
+				"C:\\projects\\jmc\\jeemce.sublime-project"
+			],
+			[
+				"rental",
+				"C:\\projects\\rental.sublime-project"
+			],
+			[
+				"ssh",
+				"C:\\projects\\anoop\\php-skit\\php-skit.sublime-project"
+			],
+			[
+				"pasangba",
+				"C:\\projects\\intanbanjar\\intanbanjar_pasangbaru.sublime-project"
+			],
+			[
+				"pasang",
+				"C:\\projects\\intanbanjar\\intanbanjar_pasangbaru.sublime-workspace"
+			],
+			[
+				"renta",
+				"C:\\projects\\rental.sublime-project"
+			],
+			[
+				"inven",
+				"C:\\projects\\intanbanjar_inventori.sublime-project"
+			],
+			[
+				"warehoi",
+				"C:\\projects\\jolie_warehouse\\jolie_warehouse.sublime-project"
+			],
+			[
+				"kt",
+				"C:\\projects\\kt_ifm_gtid_web\\kt_ifm_gtid_web.sublime-project"
+			],
+			[
+				"joli",
+				"C:\\projects\\jolie_warehouse\\jolie_warehouse.sublime-project"
+			],
+			[
+				"wareho",
+				"C:\\projects\\jolie_warehouse\\jolie_warehouse.sublime-project"
+			],
+			[
+				"la",
+				"C:\\projects\\laravel-monorepo\\laravel-monorepo.sublime-project"
+			],
+			[
+				"",
+				"C:\\projects\\kt_ifm_gtid_web\\kt_ifm_gtid_web.sublime-project"
+			],
+			[
+				"ktif",
+				"C:\\projects\\kt_ifm_gtid_web\\kt_ifm_gtid_web.sublime-project"
+			],
+			[
+				"tbmd",
+				"C:\\projects\\tbmd_ci4\\tbmd_ci4.sublime-project"
+			],
+			[
+				"ebmd",
+				"C:\\projects\\tbmd_ci4\\tbmd_ci4.sublime-project"
+			]
+		],
+		"width": 378.0
+	},
+	"select_symbol":
+	{
+		"height": 281.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
