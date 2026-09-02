@@ -519,72 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": ".agents/BRAINS.md",
-			"settings":
-			{
-				"buffer_size": 3945,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					2,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAADwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					4,
-					1,
-					"left_delete",
-					null,
-					"AQAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAQzpcd29ya3NcanNtb25v",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAAaQ8AAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "AGENTS.md",
-			"settings":
-			{
-				"buffer_size": 522,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					2,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAACQIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					4,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAAkCAAAAAAAACgIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAACQIAAAAAAAAJAgAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -597,6 +531,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
 			[
 				"fodlal",
 				"Code Folding: Fold All"
@@ -843,6 +781,16 @@
 	],
 	"file_history":
 	[
+		"/C/works/jsmono/.gitignore",
+		"/C/works/jsmono/.agents/works/001b-plan.md",
+		"/C/works/jsmono/pkgs/vue-leaflet/package.json",
+		"/C/works/jsmono/.agents/works/001a-audit.md",
+		"/C/works/jsmono/pkgs/vue-ckeditor/widgets/v4.vue",
+		"/C/works/jsmono/pkgs/vue-select2/package.json",
+		"/C/works/jsmono/pkgs/vue-datatables/PACKAGE.md",
+		"/C/works/rental/rental_web/app/Http/Controllers/Api2/DataController.php",
+		"/C/works/jsmono/.agents/BRAINS.md",
+		"/C/works/jsmono/AGENTS.md",
 		"/C/works/rental/rental_mob/.agents/BRAINS.md",
 		"/C/projects/intanbanjar/intanbanjar_portal_web/.env",
 		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Aduan/Repository/AduanRepository.php",
@@ -960,21 +908,11 @@
 		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/SempoaCicil.php",
 		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/SempoaRab.php",
 		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/helpers/JenisHelper.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/SempoaDaftar.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/TagihService.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/Jenis.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Repository/TagihRepository.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Models/Samba/Pendaftaran.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Shared/ResponseTrait.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Shared/CommonTrait.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/SambaRepository.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/vendor/psr/http-message/src/ServerRequestInterface.php",
-		"/C/projects/intanbanjar/intanbanjar_docs/pelanggan.md",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/vendor/psr/http-message/src/ResponseInterface.php"
+		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/SempoaDaftar.php"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -988,6 +926,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pembuatan package ",
+			"leaflet",
+			"jquery",
+			"## user",
+			"use",
+			"name",
+			"initElFinder",
+			"hundreds",
+			"hundres"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1009,95 +956,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".agents/BRAINS.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3945,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3945,
-								3945
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html, text.xml"
-								},
-								{
-									"rhs_empty": true,
-									"selector": "punctuation.accessor"
-								}
-							],
-							"copilot.completion._is_modified": false,
-							"copilot.completion._is_saving": false,
-							"copilot.completion.is_visible": false,
-							"lsp_uri": "file:///C:/works/jsmono/.agents/BRAINS.md",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 1219.0,
-						"translation.y": 311.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "AGENTS.md",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 522,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								392,
-								392
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html, text.xml"
-								},
-								{
-									"rhs_empty": true,
-									"selector": "punctuation.accessor"
-								}
-							],
-							"copilot.completion._is_modified": false,
-							"copilot.completion._is_saving": false,
-							"copilot.completion.is_visible": false,
-							"lsp_uri": "file:///C:/works/jsmono/AGENTS.md",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1166,6 +1024,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"select2package.json",
+				"pkgs\\vue-select2\\package.json"
+			],
+			[
+				"PACKAGE.md",
+				"pkgs\\vue-datatables\\PACKAGE.md"
+			],
+			[
+				"vue-ckeditorwidgets/v4.vue",
+				"pkgs\\vue-ckeditor\\widgets\\v4.vue"
+			],
 			[
 				"pendacontro",
 				"intanbanjar_portal_web\\src\\Api\\Samba\\Controller\\PendaftaranController.php"
@@ -1665,18 +1535,6 @@
 			[
 				"sql",
 				"docs\\sql_like_matrix.html"
-			],
-			[
-				"nav",
-				"html\\navix.html"
-			],
-			[
-				"inve",
-				"outfits\\outfit_inveintshirts.com.md"
-			],
-			[
-				"photoe",
-				"vendor_photoeditorai_prompt.txt"
 			]
 		],
 		"width": 0.0
@@ -1684,9 +1542,13 @@
 	"select_project":
 	{
 		"height": 499.0,
-		"last_filter": "",
+		"last_filter": "jsmo",
 		"selected_items":
 		[
+			[
+				"jsmo",
+				"C:\\works\\jsmono\\jsmono.sublime-project"
+			],
 			[
 				"anov",
 				"C:\\projects\\anoop\\anovsiradj.github.io\\anovsiradj.github.io.sublime-project"
