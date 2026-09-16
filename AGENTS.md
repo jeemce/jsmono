@@ -10,8 +10,18 @@ Before processing any user request or analyzing code, execute this exact sequenc
 *Constraint: Do not skip Step 1. Do not load raw context files in `./.agents/brains/` until `BRAINS.md` logic is initialized.*
 
 # Development Guidelines
+- untuk package manager pakai `pnpm` bukan `npm`
 - semua penamaan package harus dengan namespace `@jeemce/{package}`
 - semua package perlu disediakan interface supaya bisa debug di browser secara langsung
 - untuk dependensi ke react, minimal versinya adalah v17 keatas, maksimal tidak ada, constrait jangan strict.
 - untuk dependensi ke vue, minimal versinya adalah v3 keatas, maksimal tidak ada, constrait jangan strict.
 - untuk versi constrait, batasan utamanya adalah versi major, untuk batasan versi minor jika dibutuhkan saja.
+
+## Packages & Apps
+
+proyek jsmono ini digunakan sebagai wadah (monorepo) dalam development packages js/ts.
+
+- `./apps/*/` aku belum kepikiran untuk apa
+- `./pkgs/*/` untuk taruh semua packages yang aku create
+
+setiap packages punya git sendiri, tapi bukan sebagai submodules.

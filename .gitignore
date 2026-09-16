@@ -2,3 +2,5 @@
 .agents/sessions.txt
 
 /pkgs/*/
+
+node_modules
