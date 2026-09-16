@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"sublime",
+				"\"https://www.schemastore.org/sublime-syntax.json\""
+			],
+			[
 				"Rab",
 				"RabController"
 			],
@@ -510,68 +514,311 @@
 			[
 				"peng",
 				"penunggakan($model, $fakturModels)"
-			],
-			[
-				"faktur",
-				"fakturModels"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
+			"file": "ckeditor/ckeditor5_default.json",
+			"redo_stack":
+			[
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAACEAAAAAAAAAIQAAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				]
+			],
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 33,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
 				[
-					8,
+					6,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
 					1,
 					"paste",
 					null,
-					"AQAAACQAAAAAAAAAMQAAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAADwvw"
+					"AQAAAAAAAAAAAAAAIQAAAAAAAAAFAAAAewoJCn0",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "ckeditor/ckeditor4_default.json",
+			"settings":
+			{
+				"buffer_size": 33,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAAAMAAAAAAAAABQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"LSP-json\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": true,
+						"query_change_id":
+						[
+							2,
+							9,
+							1
+						],
+						"trigger": "\"$schema\""
+					},
+					"AgAAAAMAAAAAAAAAAwAAAAAAAAACAAAAIiIDAAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "subl"
+					},
+					"BAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					12,
 					1,
 					"insert",
 					{
-						"characters": "react"
+						"characters": "ime"
 					},
-					"BQAAADcAAAAAAAAAOAAAAAAAAAADAAAAdnVlOAAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADoAAAAAAAAANwAAAAAAAAAAAAAAAADwvw"
+					"AwAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					25,
+					15,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":718,\"session_name\":\"LSP-json\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							3,
+							10,
+							2
+						],
+						"trigger": "\"https://www.schemastore.org/sublime-syntax.json\""
+					},
+					"CAAAABQAAAAAAAAAFAAAAAAAAAABAAAAZRMAAAAAAAAAEwAAAAAAAAABAAAAbRIAAAAAAAAAEgAAAAAAAAABAAAAaREAAAAAAAAAEQAAAAAAAAABAAAAbBAAAAAAAAAAEAAAAAAAAAABAAAAYg8AAAAAAAAADwAAAAAAAAABAAAAdQ4AAAAAAAAADgAAAAAAAAABAAAAcw4AAAAAAAAAPwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAIAAAAAAAAAAgAAAAAAAAA9AAAACSIkc2NoZW1hIjogImh0dHBzOi8vd3d3LnNjaGVtYXN0b3JlLm9yZy9zdWJsaW1lLXN5bnRheC5qc29uIgEAAAAAAAAAAQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAEAAAAAAAAAAwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAAAMAAAAAAAAABQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "__note__"
+					},
+					"CAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAA4AAAAAAAAADwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAAA8AAAAAAAAAEQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
 					1,
 					"left_delete",
 					null,
-					"AQAAADcAAAAAAAAANwAAAAAAAAAGAAAAcmVhY3Qt",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD0AAAAAAAAANwAAAAAAAAAAAAAAAADwvw"
+					"AQAAABEAAAAAAAAAEQAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					29,
+					33,
+					1,
+					"insert",
+					{
+						"characters": "todos"
+					},
+					"BQAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
 					1,
 					"left_delete",
 					null,
-					"AQAAACQAAAAAAAAAJAAAAAAAAAANAAAAL3BrZ3MvdnVlLSovCg",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACQAAAAAAAAAMQAAAAAAAAAAAAAAAAAAAA"
+					"AQAAABQAAAAAAAAAFAAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"left_delete",
+					null,
+					"AQAAABQAAAAAAAAAFAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "shared"
+					},
+					"BgAAABAAAAAAAAAAEQAAAAAAAAAEAAAAdG9kbxEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABYAAAAAAAAAFwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "default"
+					},
+					"BwAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
-		},
-		{
-			"file": "AGENTS.md",
-			"settings":
-			{
-				"buffer_size": 506,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "",
@@ -830,10 +1077,18 @@
 	},
 	"expanded_folders":
 	[
-		"/C/works/jsmono"
+		"/C/works/jsmono",
+		"/C/works/jsmono/.agents",
+		"/C/works/jsmono/ckeditor"
 	],
 	"file_history":
 	[
+		"/C/works/jsmono/pkgs/vue-elfinder/.gitignore",
+		"/C/works/jsmono/pkgs/vue-inputmask/.gitignore",
+		"/C/works/jsmono/ckeditor/v4.json",
+		"/C/works/jsmono/ckeditor/v5.json",
+		"/C/works/jsmono/pkgs/vue-leaflet/plugins/useLeaflet.js",
+		"/C/works/jsmono/.gitignore",
 		"/C/works/jeemes/.env.stub",
 		"/C/works/jsmono/pkgs/react-jui/.gitignore",
 		"/C/works/jsmono/pkgs/react-ckeditor/.gitignore",
@@ -841,7 +1096,6 @@
 		"/C/works/jsmono/pkgs/react-tinymce/.gitignore",
 		"/C/works/jsmono/.agents/BRAINS.md",
 		"/C/works/jsmono/AGENTS.md",
-		"/C/works/jsmono/.gitignore",
 		"/C/works/jsmono/.agents/works/001b-plan.md",
 		"/C/works/jsmono/pkgs/vue-leaflet/package.json",
 		"/C/works/jsmono/.agents/works/001a-audit.md",
@@ -956,12 +1210,7 @@
 		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/application.php",
 		"/C/projects/intanbanjar/intanbanjar_portal_web/config/common/routes-rekening.php",
 		"/C/projects/intanbanjar/intanbanjar_docs/mobile/20260722-irl.md",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Controller/LacakController.php",
-		"/C/projects/intanbanjar/intanbanjar_docs/billing/nopel.txt",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Billing/BillingTagihClient.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/syskit/objects/Sempoa.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Billing/Controller/TagihController.php",
-		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Controller/TagihController.php"
+		"/C/projects/intanbanjar/intanbanjar_portal_web/src/Api/Samba/Controller/LacakController.php"
 	],
 	"find":
 	{
@@ -1011,67 +1260,102 @@
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "ckeditor/ckeditor5_default.json",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 33,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								45,
-								45
+								33,
+								33
 							]
 						],
 						"settings":
 						{
-							"copilot.completion._is_modified": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"selector": "- comment - punctuation.separator - punctuation.definition.string.end - constant.character.escape - invalid.illegal - punctuation.section.mapping - punctuation.section.sequence",
+									"server": "LSP-json"
+								}
+							],
+							"copilot.completion._is_modified": true,
 							"copilot.completion._is_saving": false,
 							"copilot.completion.is_visible": false,
-							"lsp_uri": "file:///C:/works/jsmono/.gitignore",
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "AGENTS.md",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 506,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								506,
-								506
-							]
-						],
-						"settings":
-						{
-							"copilot.completion._is_modified": false,
-							"copilot.completion.is_visible": false,
-							"lsp_uri": "file:///C:/works/jsmono/AGENTS.md",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"lsp_active": true,
+							"lsp_uri": "file:///C:/works/jsmono/ckeditor/ckeditor5_default.json",
+							"show_definitions": false,
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ckeditor/ckeditor4_default.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								33
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"selector": "- comment - punctuation.separator - punctuation.definition.string.end - constant.character.escape - invalid.illegal - punctuation.section.mapping - punctuation.section.sequence",
+									"server": "LSP-json"
+								}
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"lsp_active": true,
+							"lsp_uri": "file:///C:/works/jsmono/ckeditor/ckeditor4_default.json",
+							"show_definitions": false,
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1084,7 +1368,7 @@
 	},
 	"input":
 	{
-		"height": 41.0
+		"height": 43.0
 	},
 	"layout":
 	{
@@ -1124,6 +1408,13 @@
 		]
 	},
 	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
 	{
 		"height": 0.0,
 		"history":
@@ -1795,6 +2086,9 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"copilot.copilotignore.patterns":
+		{
+		},
 		"lsp_show_inlay_hints": false
 	},
 	"show_minimap": false,

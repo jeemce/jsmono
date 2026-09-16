@@ -1,3 +1,4 @@
-/.agents/skills/windows-powershell
+.agents/skills/windows-powershell
+.agents/sessions.txt
 
 /pkgs/*/
